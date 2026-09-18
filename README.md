@@ -28,7 +28,7 @@ loan_prediction/
 
 ## 📊 Dataset
 
-**Source:** [Kaggle — Loan Prediction Dataset](https://www.kaggle.com/datasets/bhavikbb/loan-prediction-dataset)
+**Source:** [[Kaggle — Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset))
 
 | Column | Type | Description |
 |---|---|---|
